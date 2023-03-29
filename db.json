@@ -1,11 +1,7 @@
-
-      {
-           
-           "to":  "01123426901",
-          
-           "smsTemplateContent":  {
-                 "subject":  "Jafpa",
-                "body":"Your BEST CHICKEN AND MEATS order OR166 for antibioticfree and 100% healthy meat has been successfully placed. We will keep you posted on the status of your order 01123426901"        
-    }    
-  }
-
+    {
+         "to":  "01123426901",
+         "smsTemplateContent":  {
+               "subject":  "Jafpa",
+               "body": "Your BEST CHICKEN AND MEATS order OR166 for antibioticfree and 100% healthy meat has been successfully placed. We will keep you posted on the status of your order 01123426901"        
+  }    
+}
